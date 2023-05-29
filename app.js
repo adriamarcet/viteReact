@@ -19,3 +19,4 @@ const testWithFragment = React.createElement(React.Fragment, null, [button1, but
 
 root.render(testWithFragment);
 
+console.log('test');
